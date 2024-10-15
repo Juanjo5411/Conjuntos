@@ -1,8 +1,6 @@
 # Conjuntos de primeros, siguientes y predicción
-Integrantes: 
-***
+## Integrantes:
 * Miguel Férnandez
 * Kevin García 
 * Camilo López 
 * Juan Márquez
-***
